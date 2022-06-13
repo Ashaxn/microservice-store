@@ -1,1 +1,1 @@
-# microservice-store
+# microservices-store
