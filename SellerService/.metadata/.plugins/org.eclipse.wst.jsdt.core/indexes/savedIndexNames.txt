@@ -1,5 +1,0 @@
-INDEX VERSION 1.4+C:\MTIT-Microservice-Store\microservice-store\SellerService\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2245024499.index
-2042265346.index
-2487446638.index
-311369034.index
